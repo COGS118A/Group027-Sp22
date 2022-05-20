@@ -1,6 +1,7 @@
-matplotlib==3.5.1
-nltk==3.7
-numpy==1.22.0
-pandas==1.3.5
-scikit_learn==1.1.1
-wordcloud==1.8.1
+matplotlib
+nltk
+numpy
+pandas
+scikit_learn
+wordcloud
+import_ipynb
