@@ -5,3 +5,4 @@ pandas
 scikit_learn
 wordcloud
 import_ipynb
+seaborn
